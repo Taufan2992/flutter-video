@@ -41,7 +41,7 @@ class _LoginPage extends State<MyHomePage> {
     return Scaffold(
       // appBar: AppBar(
       //   // title: Image.asset('assets/images/logo.png', fit: BoxFit.cover),
-      //   title: Image(image: AssetImage('../../assets/images/logo.png')),
+      //   title: Image(image: AssetImage('../../assets/images/logo.png')) ,
       // ),
       body: Center(
         child: Container(
